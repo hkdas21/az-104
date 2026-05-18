@@ -128,7 +128,7 @@ You don't need to be a developer or coder. AZ-104 is administrator-focused.
 3. **Networking is where people lose marks.** Spend extra time on NSGs, route tables, and peering.
 4. **Read the question twice.** Microsoft loves to phrase things in tricky ways like *"least privilege"* or *"minimize cost"*.
 5. **Don't memorize — understand.** If you understand *why* something works, you can answer questions you've never seen before.
-6. **All the best forthe exam!!!!
+6. **All the best for the exam!!!!
 
 ---
 
